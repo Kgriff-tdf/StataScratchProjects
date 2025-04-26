@@ -1,0 +1,2 @@
+# StataScratchProjects
+Practice Projects
